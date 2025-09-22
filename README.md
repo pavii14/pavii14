@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavithra</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Full stack Developer from chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavii14&label=Profile%20views&color=0e75b6&style=flat" alt="pavii14" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **PAYTM PROJECT**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning and upgrading **Full Stack Java React JS**
 
-- 💬 Ask me about **DevOps ,AWS ,Linux ,JAVA**
+- 💬 Ask me about **React JS ,AWS ,Linux ,JAVA**
 
 - 📫 How to reach me **pavipersonal14@gmail.com**
 
